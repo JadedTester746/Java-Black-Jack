@@ -1,0 +1,1 @@
+This project makes a playable version of black jack in Java.  The shuffling is implemented through two stacks and random numbers to emulate a ripple shuffle.  You can also bet amounts and try to make the most possible money.
